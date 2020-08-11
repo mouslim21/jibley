@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "668664320538",
+    "firebase_url": "https://jibli-ddd89.firebaseio.com",
+    "project_id": "jibli-ddd89",
+    "storage_bucket": "jibli-ddd89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668664320538:android:25fe769355fa06808577a3",
+        "android_client_info": {
+          "package_name": "com.example.jibli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668664320538-nnh4d52p8675q6csof5k1l1074qlbi19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jibli",
+            "certificate_hash": "3d9d3a03edb3dde0fe1c04f5c5b6fa94220b75c1"
+          }
+        },
+        {
+          "client_id": "668664320538-a4srnf1bmqvgn3tc0sv71smhpvu8n7nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz0GFOeJ3YvS_yLppJY6KqloNgPBwFpRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668664320538-a4srnf1bmqvgn3tc0sv71smhpvu8n7nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
