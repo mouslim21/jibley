@@ -19,9 +19,11 @@ class MyApp extends StatelessWidget {
        "/login_jibley" : (context)=>login_jibley(),
         "/myhome":(context)=>MyHomePage(),
      },
+      //nothing
       title: 'Flutter Demo',
       theme: ThemeData(
         primarySwatch: Colors.pink,
+
       ),
       home: OnboardingExample(),
     );
